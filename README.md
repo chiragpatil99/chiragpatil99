@@ -1,4 +1,4 @@
-<!--## Hi there! 👋 I'm Chirag Patil
+## Hi there! 👋 I'm Chirag Patil
 
 I'm a Master's student in the **Bradley Department of Electrical and Computer Engineering at Virginia Tech**. My interests lie in the fields of **Computer Vision**, **Geospatial Data Analysis**, and **Machine Learning**.
 
@@ -18,23 +18,8 @@ I'm a Master's student in the **Bradley Department of Electrical and Computer En
 - Former GTA for **Circuits and Devices** course.
 
 ### 🤝 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **Email**: [Your Email Address]
-- **Portfolio**: [Your Portfolio URL (if applicable)]
+- **LinkedIn**: https://www.linkedin.com/in/chirag-patil-4589621b3/
+- **Email**: chiragpatil@vt.edu
+- **Portfolio**: https://sanghani.cs.vt.edu/people/our-team/students/chirag-vijay-patil.html
 
 Thanks for stopping by! Let's collaborate and build something amazing. 🚀
-
-
-**chiragpatil99/chiragpatil99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
