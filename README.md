@@ -9,7 +9,7 @@ improvement in detection accuracy.
 - Worked on a hyperspectral dataset with over 500,000 data points to enable the effective use of the Segment Anything Model
 (SAM) for improved segmentation, resulting in a 25% increase in segmentation precision.
 - Proficient in building and fine-tuning machine learning models using PyTorch, TensorFlow, and scikit-learn.
-- **Experienced in working on projects like Brain Tumor Semantic Segmentation using deep learning and multimodal MRI scans.
+- Experienced in working on projects like Brain Tumor Semantic Segmentation using deep learning and multimodal MRI scans.
 
 ### 🛠 Tech Stack
 - **Languages**: Python, Java, JavaScript/TypeScript, SQL, C
