@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Chirag Patil
 
-💻 Software Development Engineer at **Amazon Web Services (AWS)**  
+💻 Software Development Engineer at **Amazon Web Services (AWS)**  (Aug 2025 – Present)
 
 🎓 Master's student in Computer Engineering at **Virginia Tech**  
 
