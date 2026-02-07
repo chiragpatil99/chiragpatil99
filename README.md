@@ -21,6 +21,5 @@ improvement in detection accuracy.
 ### 🤝 Connect with Me
 - **LinkedIn**: https://www.linkedin.com/in/chirag-patil-4589621b3/
 - **Email**: chiragpatil@vt.edu
-- **Portfolio**: https://sanghani.cs.vt.edu/people/our-team/students/chirag-vijay-patil.html
-
+- **Portfolio**: https://chiragpatil99.github.io/portfolio/
 Thanks for stopping by! Let's collaborate and build something amazing. 🚀
