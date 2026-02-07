@@ -1,11 +1,12 @@
 ## Hi there! 👋 I'm Chirag Patil
 
-I'm a Master's student in the **Bradley Department of Electrical and Computer Engineering at Virginia Tech**. My interests lie in the fields of **Computer Vision**, **Deep Learning**, and **Machine Learning**.
+💻 Software Development Engineer at **Amazon Web Services (AWS)**  
 
+🎓 Master's student in Computer Engineering at **Virginia Tech**  
 
 ## 🚀 Experience
 
-### Software Development Engineer Intern — Amazon Web Services (AWS)
+### Software Development Engineer — Amazon Web Services (AWS)
 - Worked on a reliability-critical infrastructure team supporting thousands of production RDS hosts  
 - Led migration of system tests to a modern framework, reducing flakiness by **30–50%**  
 - Saved **100+ developer hours/month** by improving CI pipeline stability  
@@ -41,4 +42,5 @@ improvement in detection accuracy.
 - **LinkedIn**: https://www.linkedin.com/in/chirag-patil-4589621b3/
 - **Email**: chiragpatil@vt.edu
 - **Portfolio**: https://chiragpatil99.github.io/portfolio/
+  
 Thanks for stopping by! Let's collaborate and build something amazing. 🚀
